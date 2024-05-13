@@ -9,7 +9,7 @@ Result summary:
 |        F-measure        | 0.85 | 0.82 |        0.88       |   0.87  | 0.83 |        0.88       |        0.88       |
 
 Demo Streamlit app: https://thesis-topic-modelling-ha8fw9vmwmxnpnrr7z6phx.streamlit.app
-\n
+<br />
 App screenshot:
 ![image](https://github.com/DDKson/THESIS_DSEB62-Product_review_analysis/assets/92723196/7e633598-68b7-46ed-a1ed-64943e6f6207)
 
